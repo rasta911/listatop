@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1,HD A FAZENDA
-http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD A FAZENDA ALTER
-http://load.kudaplay.tv/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD AE
-http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD AE
-http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD AE
-http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD AE ALTER
-http://load.kudaplay.tv/aovivo/HD_AE_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_AE_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD AMC
-http://load.kudaplay.tv/aovivo/SD_AMC/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_AMC/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD AMC
-http://load.kudaplay.tv/aovivo/FHD_AMC/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_AMC/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD AMC
-http://load.kudaplay.tv/aovivo/HD_AMC/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_AMC/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD AMC ALTER
-http://load.kudaplay.tv/aovivo/HD_AMC_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_AMC_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD AXN
 http://load.kudaplay.tv/aovivo/SD_AXN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD AXN
@@ -46,237 +46,293 @@ http://load.kudaplay.tv/aovivo/HD_BIS/video.m3u8?token=cf4e08e030323c91b7cf8fe6b
 #EXTINF:-1,HD BIS ALTERE
 http://load.kudaplay.tv/aovivo/HD_BIS_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BABYTV
-http://load.kudaplay.tv/aovivo/SD_BABYTV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_BABYTV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BAND
-http://load.kudaplay.tv/aovivo/SD_BAND/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_BAND/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BAND
-http://load.kudaplay.tv/aovivo/HD_BAND/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BAND/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BAND NEWS
-http://load.kudaplay.tv/aovivo/SD_BAND_NEWS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_BAND_NEWS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD BAND NEWS
-http://load.kudaplay.tv/aovivo/FHD_BAND_NEWS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_BAND_NEWS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BAND NEWS
 http://load.kudaplay.tv/aovivo/HD_BAND_NEWS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BAND NEWS ALTER
-http://load.kudaplay.tv/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BAND SP
-http://load.kudaplay.tv/aovivo/SD_BAND_SP/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_BAND_SP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BAND SPORTS
-http://load.kudaplay.tv/aovivo/SD_BAND_SPORTS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_BAND_SPORTS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD BAND SPORTS
-http://load.kudaplay.tv/aovivo/FHD_BAND_SPORTS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_BAND_SPORTS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BAND SPORTS
-http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BAND SPORTS ALTER
-http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD BOOMERANG
 http://load.kudaplay.tv/aovivo/SD_BOOMERANG/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD BOOMERANG
-http://load.kudaplay.tv/aovivo/FHD_BOOMERANG/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_BOOMERANG/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BOOMERANG
-http://load.kudaplay.tv/aovivo/HD_BOOMERANG/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BOOMERANG/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD BOOMERANG ALTER
-http://load.kudaplay.tv/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CANAL BRASIL
-http://load.kudaplay.tv/aovivo/HD_CANAL_BRASIL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CANAL_BRASIL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CANAL RURAL
-http://load.kudaplay.tv/aovivo/SD_CANAL_RURAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CANAL_RURAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CANCAO NOVA
-http://load.kudaplay.tv/aovivo/SD_CANCAO_NOVA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CANCAO_NOVA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CARTOON NETWORK
-http://load.kudaplay.tv/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD CARTOON NETWORK
-http://load.kudaplay.tv/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD CARTOON NETWORK
-http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD CARTOON NETWORK
-http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CINEMAX
-http://load.kudaplay.tv/aovivo/SD_CINEMAX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CINEMAX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD CINEMAX
-http://load.kudaplay.tv/aovivo/FHD_CINEMAX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_CINEMAX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD CINEMAX ALTER
-http://load.kudaplay.tv/aovivo/HD_CINEMAX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD COMBATE
-http://load.kudaplay.tv/aovivo/SD_COMBATE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_COMBATE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD COMBATE
-http://load.kudaplay.tv/aovivo/FHD_COMBATE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_COMBATE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD COMBATE
-http://load.kudaplay.tv/aovivo/HD_COMBATE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_COMBATE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD COMBATE AFTER
-http://load.kudaplay.tv/aovivo/HD_COMBATE_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_COMBATE_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD COMEDY CENTRAL
-http://load.kudaplay.tv/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD COMEDY CENTRAL
-http://load.kudaplay.tv/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD COMEDY CENTRAL ALTER
 http://load.kudaplay.tv/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TV CULTURA
-http://load.kudaplay.tv/aovivo/SD_TV_CULTURA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TV_CULTURA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD CULTURA
-http://load.kudaplay.tv/aovivo/HD_CULTURA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_CULTURA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD CURTA
-http://load.kudaplay.tv/aovivo/SD_CURTA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_CURTA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD CURTA
-http://load.kudaplay.tv/aovivo/HD_CURTA_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_CURTA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DAZN 1
-http://load.kudaplay.tv/aovivo/HD_DAZN_1/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DAZN_1/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY CIVILIZATION
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_CIVILIZATION/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_CIVILIZATION/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY CIVILIZATION ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_CIVILIZATION_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD DISCOVERY HOMEHEALTH
-http://load.kudaplay.tv/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY HOMEHEALTH
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY HOMEHEALTH
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD DISCOVERY KIDS
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY KIDS
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY KIDS
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVER KIDS ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY SCIENCE
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,HD DISCOVERY SCIENCE 
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD DISCOVERY SCIENCE
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD DISCOVERY SCIENCE ALTER
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD DISCOVERY THEATER
-http://load.kudaplay.tv/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY THEATER
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY THEATER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY THEATER ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD DISCOVERY TURBO
-http://load.kudaplay.tv/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY TURBO
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY TURBO
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY TURBO ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD DISCOVERY WORLD
+http://load.kudaplay.tv/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISCOVERY WORLD
-http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY WORLD
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISCOVERY WORLD ALTER
-http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD DISNEY
-http://load.kudaplay.tv/aovivo/SD_DISNEY/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_DISNEY/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISNEY
-http://load.kudaplay.tv/aovivo/HD_DISNEY/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,FHD DISNEY ALTER
-http://load.kudaplay.tv/aovivo/FHD_DISNEY/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISNEY/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD DISNEY ALTER
+http://load.kudaplay.tv/aovivo/HD_DISNEY_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD DISNEY JUNIOR
-http://load.kudaplay.tv/aovivo/SD_DISNEY_JR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_DISNEY_JR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD DISNEY JUNIOR
-http://load.kudaplay.tv/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISNEY JUNIOR
-http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD DISNEY JUNIOR ALTER
-http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,DISNEY XD
-http://load.kudaplay.tv/aovivo/HD_DISNEY_XD/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,HD E
-http://load.kudaplay.tv/aovivo/HD_E/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD DISNEY XD
+http://load.kudaplay.tv/aovivo/SD_DISNEY_XD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD E
+http://load.kudaplay.tv/aovivo/SD_E/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD ESPN2
+http://load.kudaplay.tv/aovivo/SD_ESPN_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD ESPN 2
+http://load.kudaplay.tv/aovivo/FHD_ESPN_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD ESPN BRASIL
+http://load.kudaplay.tv/aovivo/SD_ESPN_BRASIL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD ESPN BRASIL
-http://load.kudaplay.tv/aovivo/FHD_ESPN_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ESPN BRASIL
-http://load.kudaplay.tv/aovivo/HD_ESPN_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,HD ESPN BRASIL
-http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ESPN BRASIL ALTER
-http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ESPN_BRASIL_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD ESPN EXTRA
-http://load.kudaplay.tv/aovivo/SD_ESPN_EXTRA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_ESPN_EXTRA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ESPN EXTRA
-http://load.kudaplay.tv/aovivo/HD_ESPN_EXTRA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ESPN_EXTRA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD ESPN
-http://load.kudaplay.tv/aovivo/FHD_ESPN/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_ESPN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ESPN
-http://load.kudaplay.tv/aovivo/HD_ESPN/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ESPN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD ESPORTE INTETATIVO 1
-http://load.kudaplay.tv/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ESPORTE INTERATIVO 2 ALTER
-http://load.kudaplay.tv/aovivo/HD_ESPORTE_INTERATIVO_2_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ESPORTE_INTERATIVO_2_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD FX
+http://load.kudaplay.tv/aovivo/SD_FX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FX
-http://load.kudaplay.tv/aovivo/FHD_FX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FX
-http://load.kudaplay.tv/aovivo/HD_FX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FX ALTER
-http://load.kudaplay.tv/aovivo/HD_FX_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FX_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FISH TV
-http://load.kudaplay.tv/aovivo/SD_FISH_TV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FISH_TV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FISH TV
-http://load.kudaplay.tv/aovivo/HD_FISH_TV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FISH_TV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD FOOD NETWORK
+http://load.kudaplay.tv/aovivo/SD_FOOD_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FOOD NETWORK
-http://load.kudaplay.tv/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOOD NETWORK
-http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOOD NETWORK ALTER
-http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FOX
-http://load.kudaplay.tv/aovivo/SD_FOX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FOX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FOX
-http://load.kudaplay.tv/aovivo/FHD_FOX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FOX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX
-http://load.kudaplay.tv/aovivo/HD_FOX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FOX LIFE
-http://load.kudaplay.tv/aovivo/SD_FOX_LIFE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FOX_LIFE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FOX LIFE
-http://load.kudaplay.tv/aovivo/FHD_FOX_LIFE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FOX_LIFE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX LIFE
-http://load.kudaplay.tv/aovivo/HD_FOX_LIFE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX LIFE ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX PREMIUM 1
-http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX PREMIUM 1 ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX PREMIUM 2
-http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX PREMIUM 2 ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FOX SPORTS
-http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FOX SPORTS 2
-http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FOX SPORTS 2
-http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX SPORTS 2
-http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX SPORTS 2 ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD FOX SPORTS 1
-http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX SPORTS 1
-http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FOX SPORTS 1 ALTER
-http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD FUTURA
-http://load.kudaplay.tv/aovivo/SD_FUTURA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_FUTURA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD FUTURA
-http://load.kudaplay.tv/aovivo/HD_FUTURA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_FUTURA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GNT
+http://load.kudaplay.tv/aovivo/SD_GNT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD GNT
-http://load.kudaplay.tv/aovivo/HD_GNT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_GNT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD GNT ALTER
-http://load.kudaplay.tv/aovivo/HD_GNT_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_GNT_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO BRASILIA
+http://load.kudaplay.tv/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD GLOBO EPTV CAMPINAS
-http://load.kudaplay.tv/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO EPTV CAMPINAS
+http://load.kudaplay.tv/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD GLOBO EPTV CENTRAL
-http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO RIBEIRAO PRETO
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO RIBEIRAO PRETO
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO SAO CARLOS
+http://load.kudaplay.tv/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD GLOBO SP
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_SP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GAZETA ES
+http://load.kudaplay.tv/aovivo/HD_GAZETA_ES/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO MINAS
+http://load.kudaplay.tv/aovivo/SD_GLOBO_MINAS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO MINAS
+http://load.kudaplay.tv/aovivo/HD_GLOBO_MINAS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO NORDESTE
+http://load.kudaplay.tv/aovivo/SD_GLOBO_NORDESTE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO NORDESTE
+http://load.kudaplay.tv/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD GLOBO RBS POA
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO RBS POA
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO RPC CURITIBA
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RPC_CURITIBA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO RPC CURITIBA
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RPC_CURITIBA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD GLOBO RPC PARANAENSE
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO AMAZONICA
+http://load.kudaplay.tv/aovivo/SD_GLOBO_AMAZONICA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD GLOBO RJ
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RJ/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD GLOBO RJ
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RJ/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD GLOBO RJ
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RJ/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD GLOBO SP
-http://load.kudaplay.tv/aovivo/FHD_GLOBO_SP/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_GLOBO_SP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD GLOBO SP
 http://load.kudaplay.tv/aovivo/HD_GLOBO_SP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD GLOBO SP ALTER
@@ -412,63 +468,71 @@ http://load.kudaplay.tv/aovivo/SD_MAX_PRIME/video.m3u8?token=cf4e08e030323c91b7c
 #EXTINF:-1,FHD MAX PRIME
 http://load.kudaplay.tv/aovivo/FHD_MAX_PRIME/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MAXPRIME
-http://load.kudaplay.tv/aovivo/HD_MAXPRIME/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MAXPRIME/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MAXPRIME ALTER
-http://load.kudaplay.tv/aovivo/HD_MAXPRIME_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MAXPRIME_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD MAX UP
-http://load.kudaplay.tv/aovivo/SD_MAX_UP/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_MAX_UP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD MAX UP
-http://load.kudaplay.tv/aovivo/FHD_MAX_UP/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_MAX_UP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD MAX UP
-http://load.kudaplay.tv/aovivo/HD_MAX_UP/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MAX_UP/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MAX UP ALTER
-http://load.kudaplay.tv/aovivo/HD_MAX_UP_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MAX_UP_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD MEGAPIX
-http://load.kudaplay.tv/aovivo/SD_MEGAPIX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_MEGAPIX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD MEGAPIX
-http://load.kudaplay.tv/aovivo/FHD_MEGAPIX/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_MEGAPIX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MEGAPIX
 http://load.kudaplay.tv/aovivo/HD_MEGAPIX/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MEGAPIX ALTER
-http://load.kudaplay.tv/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD MULTISHOW
-http://load.kudaplay.tv/aovivo/FHD_MULTISHOW/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_MULTISHOW/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD MULTISHOW
-http://load.kudaplay.tv/aovivo/SD_MULTISHOW/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_MULTISHOW/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MULTISHOW
-http://load.kudaplay.tv/aovivo/HD_MULTISHOW/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0V
+http://load.kudaplay.tv/aovivo/HD_MULTISHOW/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD MULTISHOW ALTER
-http://load.kudaplay.tv/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_MULTISHOW_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD MUSIC BOX BRASIL
-http://load.kudaplay.tv/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_MUSIC_BOX_BRASIL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NBR
-http://load.kudaplay.tv/aovivo/SD_NBR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_NBR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NHK
-http://load.kudaplay.tv/aovivo/SD_NHK/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_NHK/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NATGEOKIDS
-http://load.kudaplay.tv/aovivo/SD_NATGEOKIDS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_NATGEOKIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD NAT GEO KIDS
-http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_KIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD NATGEOKIDS
-http://load.kudaplay.tv/aovivo/HD_NATGEOKIDS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_NATGEOKIDS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NAT GEO WILD
-http://load.kudaplay.tv/aovivo/HD_NATGEOKIDS_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,SD NAT GEO WILD
-http://load.kudaplay.tv/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_NAT_GEO_WILD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD NAT GEO WILD
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD NAT GEO WILD
 http://load.kudaplay.tv/aovivo/HD_NAT_GEO_WILD/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
-#EXTINF:-1,FHD NAT GEO WILD
-http://load.kudaplay.tv/aovivo/FHD_NAT_GEO_WILD/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+#EXTINF:-1,HD NAT GEO WILD ALTER
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO_WILD_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,FHD NAT GEO
+http://load.kudaplay.tv/aovivo/FHD_NAT_GEO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD NAT GEO
-http://load.kudaplay.tv/aovivo/FHD_NAT_GEO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD NAT GEO ALTER
+http://load.kudaplay.tv/aovivo/HD_NAT_GEO_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NICK JR
-http://load.kudaplay.tv/aovivo/SD_NICK_JR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_NICK_JR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD NICK JR
-http://load.kudaplay.tv/aovivo/FHD_NICK_JR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,HD NICK JR 
-http://load.kudaplay.tv/aovivo/HD_NICK_JR/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_NICK_JR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD NICK JR
+http://load.kudaplay.tv/aovivo/HD_NICK_JR/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD NICK JR ALTER
+http://load.kudaplay.tv/aovivo/HD_NICK_JR_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD NICKELODEON
+http://load.kudaplay.tv/aovivo/SD_NICKELODEON/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD NICKEOLODEON
-http://load.kudaplay.tv/aovivo/HD_NICKELODEON/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_NICKELODEON/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD NOVO TEMPO
 http://load.kudaplay.tv/aovivo/SD_NOVO_TEMPO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD OFF
@@ -587,8 +651,10 @@ http://load.kudaplay.tv/aovivo/SD_REDE_VIDA/video.m3u8?token=cf4e08e030323c91b7c
 http://load.kudaplay.tv/aovivo/SD_REDETV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD REDE TV
 http://load.kudaplay.tv/aovivo/HD_REDETV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
-#EXTINF:-1,SBT
-http://load.kudaplay.tv/aovivo/FHD_SBT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+#EXTINF:-1,SD SBT
+http://load.kudaplay.tv/aovivo/SD_SBT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD SBT
+http://load.kudaplay.tv/aovivo/HD_SBT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD SBT ALTER
 http://load.kudaplay.tv/aovivo/HD_SBT_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD SBT TV JORNAL
@@ -654,13 +720,13 @@ http://load.kudaplay.tv/aovivo/HD_SYFY/video.m3u8?token=cf4e08e030323c91b7cf8fe6
 #EXTINF:-1,HD SYFY ALTER
 http://load.kudaplay.tv/aovivo/HD_SYFY_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TBS
-http://load.kudaplay.tv/aovivo/SD_TBS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TBS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TBS
-http://load.kudaplay.tv/aovivo/HD_TBS/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TBS/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TBS ALTER
-http://load.kudaplay.tv/aovivo/HD_TBS_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TBS_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TCM
-http://load.kudaplay.tv/aovivo/SD_TCM/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TCM/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TCM
 http://load.kudaplay.tv/aovivo/FHD_TCM/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TCN 
@@ -668,21 +734,21 @@ http://load.kudaplay.tv/aovivo/HD_TCM/video.m3u8?token=cf4e08e030323c91b7cf8fe6b
 #EXTINF:-1,HD TCM ALTER
 http://load.kudaplay.tv/aovivo/HD_TCM_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TLC
-http://load.kudaplay.tv/aovivo/SD_TLC/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TLC/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TLC
 http://load.kudaplay.tv/aovivo/HD_TLC/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TNT
-http://load.kudaplay.tv/aovivo/SD_TNT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TNT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TNT
-http://load.kudaplay.tv/aovivo/FHD_TNT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_TNT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TNT
-http://load.kudaplay.tv/aovivo/HD_TNT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TNT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TNT ALTER
-http://load.kudaplay.tv/aovivo/HD_TNT_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TNT_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TNT SERIES
-http://load.kudaplay.tv/aovivo/FHD_TNT_SERIES/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TNT_SERIES/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TNT SERIES
-http://load.kudaplay.tv/aovivo/HD_TNT_SERIES/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_TNT_SERIES/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TNT SERIES
 http://load.kudaplay.tv/aovivo/HD_TNT_SERIES/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TNT SERIES ALTER
@@ -697,40 +763,42 @@ http://load.kudaplay.tv/aovivo/SD_TV_CAMARA/video.m3u8?token=cf4e08e030323c91b7c
 http://load.kudaplay.tv/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD JORNAL RECIFE
 http://load.kudaplay.tv/aovivo/SD_JORNAL_RECIFE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD TV JUSTICA
+http://load.kudaplay.tv/aovivo/SD_TV_JUSTICA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1, SD TV RATIBUM
-http://load.kudaplay.tv/aovivo/SD_TV_RATIMBUM/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TV_RATIMBUM/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TV RATIBUM
-http://load.kudaplay.tv/aovivo/HD_TV_RATIMBUM/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TV_RATIMBUM/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TV SENADO
 http://load.kudaplay.tv/aovivo/SD_TV_SENADO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD UNIVERSAL
-http://load.kudaplay.tv/aovivo/SD_UNIVERSAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_UNIVERSAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD UNIVERSAL
-http://load.kudaplay.tv/aovivo/FHD_UNIVERSAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_UNIVERSAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD UNIVERSAL
-http://load.kudaplay.tv/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD UNIVERSAL ALTER
-http://load.kudaplay.tv/aovivo/HD_UNIVERSAL/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TVE
-http://load.kudaplay.tv/aovivo/SD_TVE/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TVE/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TC ACTION
-http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TC ACTION
-http://load.kudaplay.tv/aovivo/FHD_TC_ACTION/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_TC_ACTION/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC ACTION
-http://load.kudaplay.tv/aovivo/HD_TC_ACTION/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC ACTION ALTER
 http://load.kudaplay.tv/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TC CULT
-http://load.kudaplay.tv/aovivo/SD_TC_CULT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_TC_CULT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC CULT
-http://load.kudaplay.tv/aovivo/FHD_TC_CULT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TC_CULT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC CULT ALTER
-http://load.kudaplay.tv/aovivo/HD_TC_CULT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TC_CULT_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TC FUN
-http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD TC FUN
-http://load.kudaplay.tv/aovivo/HD_TC_FUN/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_TC_FUN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC FUN
 http://load.kudaplay.tv/aovivo/HD_TC_FUN/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC FUN ALTER
@@ -750,36 +818,38 @@ http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM/video.m3u8?token=cf4e08e030323c91b7
 #EXTINF:-1,HD TC PREMIUM ALTER
 http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TC TOUCH
-http://load.kudaplay.tv/aovivo/FHD_TC_TOUCH/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TC_TOUCH/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC TOUCH
-http://load.kudaplay.tv/aovivo/HD_TC_TOUCH/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TC TOUCH ALTER
-http://load.kudaplay.tv/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TERRA VIVA
-http://load.kudaplay.tv/aovivo/SD_TERRA_VIVA/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TERRA_VIVA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TOONCAST
-http://load.kudaplay.tv/aovivo/SD_TOONCAST/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TOONCAST/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD TOONCAST
-http://load.kudaplay.tv/aovivo/HD_TOONCAST/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_TOONCAST/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD TRUTV
-http://load.kudaplay.tv/aovivo/SD_TRUTV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,FHD TRUTV
-http://load.kudaplay.tv/aovivo/FHD_TRU_TV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
-#EXTINF:-1,HD TRUTV
-http://load.kudaplay.tv/aovivo/HD_TRUTV/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_TRUTV/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD VIVA
+http://load.kudaplay.tv/aovivo/SD_VIVA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,HD VIVA
+http://load.kudaplay.tv/aovivo/HD_VIVA/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD VIVA ALTER
-http://load.kudaplay.tv/aovivo/HD_VIVA_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_VIVA_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
+#EXTINF:-1,SD WARNER
+http://load.kudaplay.tv/aovivo/SD_WARNER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,FHD WARNER
-http://load.kudaplay.tv/aovivo/FHD_WARNER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/FHD_WARNER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD WARNER
-http://load.kudaplay.tv/aovivo/HD_WARNER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_WARNER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD WARNER ALTER
-http://load.kudaplay.tv/aovivo/HD_WARNER_ALTER/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_WARNER_ALTER/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD WOOHOO
-http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD WOOHOO
-http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,HD ZOOMOO
-http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
 #EXTINF:-1,SD ISAT
-http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=9aa99536409d72d7e1aef2b8110863d0
+http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=cf4e08e030323c91b7cf8fe6bf59e5e3
